@@ -21,7 +21,7 @@ Il est tout à fait possible d'ajouter d'autres extension et d'autres favoris, i
 
 S'assurer que l'extension "Passky" est épinglée afin d'acceder facilement au gestionnaire de mots de passe
 
-![gestionnaire-motdepasse](https://github.com/meowKen/hello-amap/assets/25795751/95c65b79-9d2c-4f5f-a8d7-565a0aee63e2)
+![afficher-extension](https://github.com/meowKen/hello-amap/assets/25795751/0255d68d-8204-456a-9a8f-ec4c18ce524a)
 ![gestionnaire-motdepasse](https://github.com/meowKen/hello-amap/assets/25795751/5424921c-3a72-4b2a-ac6d-3e749d4912d2)
 
 Pour l'utiliser, simplement cliquer sur l'icone de l'extension et choisir le mot de passe à renseigner
