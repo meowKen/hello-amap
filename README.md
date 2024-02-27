@@ -11,7 +11,7 @@ cette session paratgée contien aussi des extensions installées et des favoris.
 
 ![connect-chrome](https://github.com/meowKen/hello-amap/assets/25795751/8eb56c79-7990-4158-b7a0-1d33cf02c9d1)
 
-Une fois connecté, s'assuré que la synchronisation est bien activée : 
+Une fois connecté, s'assurer que la synchronisation est bien activée : 
 
 ![synchro-active](https://github.com/meowKen/hello-amap/assets/25795751/f9677125-c7c4-4d83-92cc-1852fd43f9e1)
 
