@@ -1,6 +1,6 @@
 # hello-amap
 
-Cette page répertorie les informations sur lesdifférents outils utilisés pour l'administration de l'amap Fougères.
+Cette page répertorie les informations sur les différents outils utilisés pour l'administration de l'amap Fougères.
 
 > Les courgettes c'est très chouette
 
